@@ -5,7 +5,7 @@ class SchoolClassesController < ApplicationController
   end
 
   def create
-
+    raise params
   end
 
 end
